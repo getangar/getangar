@@ -17,7 +17,7 @@ Typically my content is writte in C# using the .NET framework.
 - 🐦:[Twitter](https://twitter.com/gennaro_tangari)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=azure,cs,docker,dotnet,github,grafana,js,kubernetes,postman,powershell,selenium,swift,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,c,cpp,cs,docker,dotnet,github,grafana,js,kubernetes,postman,powershell,selenium,swift,visualstudio,vscode)](https://skillicons.dev)
 
 <!--
 **getangar/getangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
