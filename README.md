@@ -1,10 +1,10 @@
 ### Gennaro Eduardo Tangari 👋
 Hello and welcome to my GitHub profile. 
-My name is Gennaro Eduardo Tangari, I'm currently working as Senior Solution Architect at Avanade Germany and I'm an Ex Solution Architect at Microsoft, experienced with Microsoft Azure, Microsoft Dynamics 365 (CRM) and .NET
+My name is Gennaro Eduardo Tangari, I'm currently working as Senior Solution Architect at Avanade Germany and I'm an Ex Solution Architect at Microsoft, experienced with Microsoft Azure, Microsoft Dynamics 365 (CRM) and .NET. Is that all? Nope, in the spare time, I also develop apps for macOS and iOS. You can find a couple of them in the App Store.
 
 What am I doing?
 
-🔭 I’m currently working on some new cool Windows applications ... sorry, no public repository 😆
+🔭 I’m currently working on some new cool applications ... sorry, no public repository 😆
 
 🌱 I’m currently learning new frameworks for the development of desktop application
 
@@ -17,7 +17,7 @@ Typically my content is writte in C# using the .NET framework.
 - 🐦:[Twitter](https://twitter.com/gennaro_tangari)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=azure,cs,docker,dotnet,github,grafana,js,kubernetes,postman,powershell,selenium,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cs,docker,dotnet,github,grafana,js,kubernetes,postman,powershell,selenium,swift,visualstudio,vscode)](https://skillicons.dev)
 
 <!--
 **getangar/getangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
