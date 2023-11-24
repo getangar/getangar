@@ -12,7 +12,7 @@ What can you find here? I have a couple of repositories I use to share demo proj
 Typically my content is writte in C# using the .NET framework.
 
 #### Social Accounts
-- 🧑‍🚀:[GitHub](https://github.com/getangar/getangar)
+- 🧑‍🚀:[GitHub](https://github.com/getangar/)
 - 🧑‍💼:[LinkedIn](https://www.linkedin.com/in/gennaroeduardotangari/)
 - 🐦:[Twitter](https://twitter.com/gennaro_tangari)
 
