@@ -12,9 +12,9 @@ What can you find here? I have a couple of repositories I use to share demo proj
 Typically my content is writte in C# using the .NET framework.
 
 #### Social Accounts
-- :tiger:[GitHub](https://github.com/getangar/getangar)
-- :cat:[LinkedIn](https://www.linkedin.com/in/gennaroeduardotangari/)
-- :dog:[Twitter](https://twitter.com/gennaro_tangari)
+- 🧑‍🚀:[GitHub](https://github.com/getangar/getangar)
+- 🧑‍💼:[LinkedIn](https://www.linkedin.com/in/gennaroeduardotangari/)
+- 🐦:[Twitter](https://twitter.com/gennaro_tangari)
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=azure,cs,docker,dotnet,github,grafana,js,kubernetes,postman,powershell,selenium,visualstudio,vscode)](https://skillicons.dev)
