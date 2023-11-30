@@ -9,7 +9,7 @@ What am I doing?
 🌱 I’m currently learning new frameworks for the development of desktop applications 😆
 
 What can you find here? I have a couple of repositories I use to share demo projects and/or samples about the fundamentals of software development.
-This content is usually created in C# using the latest .NET framework available.
+This content is usually created in with the programming languages and frameworks I love most.
 
 #### Social Accounts
 - 🧑‍🚀:[GitHub](https://github.com/getangar/)
