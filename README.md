@@ -17,7 +17,7 @@ This content is usually created in with the programming languages and frameworks
 - 🐦:[Twitter](https://twitter.com/gennaro_tangari)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=apple,azure,c,cpp,cs,docker,dotnet,git,github,grafana,java,js,kubernetes,postman,powershell,prometheus,selenium,swift,terraform,vim,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,c,cpp,cs,docker,dotnet,git,github,grafana,js,kubernetes,postman,powershell,prometheus,selenium,terraform,vim,visualstudio,vscode)](https://skillicons.dev)
 
 <!--
 **getangar/getangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
