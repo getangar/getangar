@@ -1,6 +1,6 @@
 ### Gennaro Eduardo Tangari 👋
 Hello and welcome to my GitHub profile. 
-My name is Gennaro Eduardo Tangari, I'm currently working as Senior Solution Architect at Avanade Germany and I'm an Ex Solution Architect at Microsoft, experienced with Microsoft Azure, Microsoft Dynamics 365 (CRM) and .NET. Is that all? Nope, in the spare time, I also develop apps for Wdinwos.
+My name is Gennaro Eduardo Tangari, I'm currently working as Senior Solution Architect at Avanade Germany and I'm an Ex Solution Architect at Microsoft, experienced with Microsoft Azure, Microsoft Dynamics 365 (CRM) and .NET. Is that all? Nope, in the spare time, I also develop apps for Windows.
 
 What am I doing?
 
