@@ -1,6 +1,6 @@
 ### Gennaro Eduardo Tangari 👋
 Hello and welcome to my GitHub profile. 
-My name is Gennaro Eduardo Tangari, I'm currently working as SRE at Microsoft and I'm experienced with C#, .NET, Microsoft Azure and Microsoft Dynamics 365 (CRM). Is that all? Nope, in the spare time, I also develop apps for Windows.
+My name is Gennaro Eduardo Tangari, I'm currently working as SRE at Microsoft and I'm experienced with C#, .NET, Microsoft Azure and Microsoft Dynamics 365 (CRM). Is that all? Nope, in the spare time, I also develop apps for iOS, iPadOS and macOS with Swift (look for GT Uptime, GT Graph and GT Fractals on the Apple App Store).
 
 What am I doing?
 
